@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #eeeeee;
+}
+.content {
+  background-color: #fff;
+}
+.img-qoute {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  transform: translateY(-50%);
+  border: 5px double #b4b4b8;
+}
+.content p {
+  color: #686d76 !important;
+  font-weight: bold;
+}
+
+.content span {
+  color: #373a40 !important;
+  font-weight: bold;
+}
